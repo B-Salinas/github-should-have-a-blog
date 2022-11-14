@@ -1,5 +1,6 @@
 #### Monday, Nov 14, 2022
-12:07 AM. Listening to MIT OpenCourseWare's Lecture 1: [Algorithmic Thinking, Peak Finding](https://www.youtube.com/watch?v=HtSuA80QTyo). 
+
+12:07 AM. Listening to MIT OpenCourseWare's Lecture 1: [Algorithmic Thinking, Peak Finding](https://www.youtube.com/watch?v=HtSuA80QTyo).
 
 I'm surprised Github doesn't have a place for developers to leave their notes, either about their progress as a developer or to-do lists related to prjoects. Maybe I just haven't found it yet, but this is also nice.
 
