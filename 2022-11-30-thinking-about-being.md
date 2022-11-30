@@ -1,4 +1,5 @@
-**Wednesday, Nov 30, 2022**  
+**Wednesday, Nov 30, 2022**. 
+
 1:35 PM. Listening to "when you geel like quitting but you know you must carry on and push through" [video](https://www.youtube.com/watch?v=vtFA9rLIuTs&t=2953s).
 
 Also waiting to catch up with an old bootcamp friend, one of my favorite people. Everytime we talk, I feel a shift. 
