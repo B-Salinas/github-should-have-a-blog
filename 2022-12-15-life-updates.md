@@ -8,6 +8,6 @@ Since then, it's been more than a week since my job at H-Mart -- what an opportu
 
 I allowed myself to rest for a week, very conscious of burning out and also putting myself at financial risk. I applied to some safe jobs in the area and continued my hunt for software engineering jobs. All the while, following my interests down rabbit holes whenever I had the free time and energy. Something is coming of that, but I have yet to bring it into reality.
 
-And while I still have the onboarding email waiting in my inbox -- it almost seems too good to be true, but I'm working on that -- I was offered a contract role as a QA Analyst for Meta! :D
+And while I still have the onboarding email waiting in my inbox ~~-- it almost seems too good to be true, but I'm working on that --~~ I was offered a contract role as a QA Analyst for Meta! :D
 
 Very exciting and scary things happening. Until next time!
