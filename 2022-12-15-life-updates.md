@@ -1,6 +1,6 @@
 #### Thursday, Dec 15, 2022
 
-**8:55PM.** Listening to [Alef's "Sol"](https://www.youtube.com/watch?v=30dTTJPRf94&t=2129s) (I found it while scrolling my YouTube feed for a while and I needed something to latch onto while I worked.)
+8:55PM. Listening to [Alef's "Sol"](https://www.youtube.com/watch?v=30dTTJPRf94&t=2129s) (I found it while scrolling my YouTube feed for a while and I needed something to latch onto while I worked.)
 
 It's been a minute. Time moves very differently for me, so even though it feels like it's been a month or two since I wrote one of these, it's only been 10 days. 
 
