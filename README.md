@@ -1,5 +1,5 @@
 # github-should-have-a-blog
-dumping my thoughts, feel free to read
+dumping my thoughts, feel free to read (most recent at the top)
 
 ### Dec 2022
 - [Thursday, Dec 15](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/2022-12-15-life-updates.md)
