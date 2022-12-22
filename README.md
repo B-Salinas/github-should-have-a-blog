@@ -2,6 +2,7 @@
 dumping my thoughts, feel free to read (most recent at the top)
 
 ### Dec 2022
+- [Thursday, Dec 22]()
 - [Thursday, Dec 15](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-15-life-updates.md)
 - [Sunday, Dec 4](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-04-power-of-the-mind.md)
 
