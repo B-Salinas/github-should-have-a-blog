@@ -3,7 +3,7 @@ dumping my thoughts, feel free to read (most recent at the top)
 
 ## 2023
 ### Jan
-- []()
+- [Thursday, Jan 12](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/01-12-its-3am.md)
 
 ## 2022
 ### Dec
