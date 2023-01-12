@@ -3,6 +3,7 @@ dumping my thoughts, feel free to read (most recent at the top)
 
 ## 2023
 ### Jan
+- []()
 
 ## 2022
 ### Dec
