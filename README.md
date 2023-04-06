@@ -4,6 +4,9 @@ dumping my thoughts, feel free to read (most recent at the top)
 
 # 2023
 
+## Apr
+- [Thursday, Apr 6]()
+
 ## Jan
 
 # -----
