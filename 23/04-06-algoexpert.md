@@ -1,6 +1,6 @@
 <br />
 
-#### (7) Thursday, Apr 6, 2023
+#### (7) – Thursday, Apr 6, 2023
 
 5:15 PM.
 

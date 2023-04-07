@@ -2,7 +2,7 @@
   <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-04-power-of-the-mind.md"> Sun, Dec 4 >> </a>
 </p>
 
-#### (2) Wednesday, Nov 30, 2022 
+#### (2) – Wednesday, Nov 30, 2022 
 
 1:35 PM. 
 

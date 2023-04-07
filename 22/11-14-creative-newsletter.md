@@ -2,7 +2,7 @@
   <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/11-30-thinking-about-being.md"> Wed, Nov 30 >> </a>
 </p>
 
-#### (1) Monday, Nov 14, 2022
+#### (1) – Monday, Nov 14, 2022
 
 12:07 AM. Listening to MIT OpenCourseWare's Lecture 1: Algorithmic Thinking, Peak Finding [video](https://www.youtube.com/watch?v=HtSuA80QTyo).
 

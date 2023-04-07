@@ -2,7 +2,7 @@
   <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-22-closing-out-the-year.md"> Thu, Dec 22 >> </a>
 </p>
 
-#### (4) Thursday, Dec 15, 2022
+#### (4) – Thursday, Dec 15, 2022
 
 8:55PM. Listening to [Alef's "Sol"](https://www.youtube.com/watch?v=30dTTJPRf94&t=2129s) (I found it while scrolling my YouTube feed for a while and I needed something to latch onto while I worked.)
 
