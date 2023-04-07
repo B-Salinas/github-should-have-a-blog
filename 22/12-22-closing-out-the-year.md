@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-15-life-updates.md"> Thu, Dec 15 >> </a>
+  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/01-12-its-3am.md"> Thu, Jan 12 >> </a>
 </p>
 
 #### Thrusday, Dec 22, 2022
@@ -15,5 +15,5 @@ There used to be a time where I was fearless, not afraid to jump. My only goal f
 ---
 
 <p align="left">
-  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/01-12-its-3am.md"> << Thu, Jan 12 </a>
+  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-15-life-updates.md"> << Thu, Dec 15 </a>
 </p>
