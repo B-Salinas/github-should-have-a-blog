@@ -2,7 +2,7 @@
   <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/01-12-its-3am.md"> Thu, Jan 12 >> </a>
 </p>
 
-#### Thrusday, Dec 22, 2022
+#### (5) Thursday, Dec 22, 2022
 
 3:11 PM. It's cold out in Austin, TX -- 30°. Listening to "Fading Away" by Elaine on Spotify. 
 
