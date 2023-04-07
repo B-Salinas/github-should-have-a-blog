@@ -1,5 +1,5 @@
-<p align="left"> 
-  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-04-power-of-the-mind.md"> << Sun, Dec 4 </a>
+<p align="right"> 
+  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-22-closing-out-the-year.md"> Thu, Dec 22 >> </a>
 </p>
 
 #### Thursday, Dec 15, 2022
@@ -16,6 +16,8 @@ And while I still have the onboarding email waiting in my inbox ~~-- it almost s
 
 Very exciting and scary things happening. Until next time!
 
-<p align="right"> 
-  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-22-closing-out-the-year.md"> Thu, Dec 22 >> </a>
+---
+
+<p align="left"> 
+  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-04-power-of-the-mind.md"> << Sun, Dec 4 </a>
 </p>
