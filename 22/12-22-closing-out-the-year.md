@@ -1,5 +1,5 @@
-<p align="left">
-  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-15-life-updates.md"> << Thu, Dec 15 </a>
+<p align="right">
+  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-15-life-updates.md"> Thu, Dec 15 >> </a>
 </p>
 
 #### Thrusday, Dec 22, 2022
@@ -12,6 +12,8 @@ I've also realized lately that every problem in my life currently is a me vs. me
 
 There used to be a time where I was fearless, not afraid to jump. My only goal for 2023 is to stretch out and take up that space again, take the leap.
 
-<p align="right">
-  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/01-12-its-3am.md"> Thu, Jan 12 >> </a>
+---
+
+<p align="left">
+  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/01-12-its-3am.md"> << Thu, Jan 12 </a>
 </p>
