@@ -2,7 +2,7 @@
   <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-15-life-updates.md"> Thu, Dec 15 >> </a> 
 </p>
 
-#### (3) ––– Sunday, Dec 4, 2022
+#### (3) – Sunday, Dec 4, 2022
 
 12:19 AM. Listening to [Your Higher Self](https://www.youtube.com/watch?v=1KObIrOxc1E&t=372s).
 
