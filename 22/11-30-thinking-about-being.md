@@ -14,9 +14,9 @@ Been thinking a lot about fear, mindset, what I consume for fun, purpose, and ju
 Been thinking a lot about what would I like to do for the rest of my life - not as a career but during my free time. 
 What'll get me going and keep me from straying?
 
-<center>
+<p align="center">
   *****
-</center>
+</p>
 
 11:40 PM now. 
 
