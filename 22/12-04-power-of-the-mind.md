@@ -1,5 +1,5 @@
-<p align="left">
-  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/11-30-thinking-about-being.md"> << Wed, Nov 30 </a> 
+<p align="right">
+  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-15-life-updates.md"> Thu, Dec 15 >> </a> 
 </p>
 
 **Sunday, Dec 4, 2022**
@@ -12,6 +12,8 @@ But this is a moment. One of many that is just another choice in my life, yet de
 
 My mind is a powerful tool. What I say I can or cannot do, determines what I accomplish. In spite of fear, I'm still here.
 
-<p align="right">
-  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-15-life-updates.md"> Thu, Dec 15 >> </a> 
+---
+
+<p align="left">
+  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/11-30-thinking-about-being.md"> << Wed, Nov 30 </a> 
 </p>
