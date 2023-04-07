@@ -15,7 +15,7 @@ Been thinking a lot about what would I like to do for the rest of my life - not 
 What'll get me going and keep me from straying?
 
 <p align="center">
-  *****
+  * * * * *
 </p>
 
 11:40 PM now. 
