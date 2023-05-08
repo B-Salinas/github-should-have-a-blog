@@ -4,7 +4,7 @@ dumping my thoughts, feel free to read (most recent at the top)
 
 # 2023
 ### May
-- [MON 05-08-2023: hm]()
+- [MON 05-08-2023: hm](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/05-08-hm.md)
 
 ### Apr
 - [FRI 04-21-2023: HBD Dad](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/04-21-hdb-dad.md)
