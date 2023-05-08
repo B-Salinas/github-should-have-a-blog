@@ -3,24 +3,23 @@
 dumping my thoughts, feel free to read (most recent at the top)
 
 # 2023
+###
+- [05-08-2023: hm]()
 
 ### Apr
-
-- [Thursday, Apr 6](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/04-06-algoexpert.md)
+- [04-21-2023: HBD Dad](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/04-21-hdb-dad.md)
+- [04-06-2023: algoexpert?](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/04-06-algoexpert.md)
 
 ### Jan
-
-- [Thursday, Jan 12](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/01-12-its-3am.md)
+- [01-12-2023: its 3am](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/01-12-its-3am.md)
 
 # 2022
 
 ### Dec
-
-- [Thursday, Dec 22](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-22-closing-out-the-year.md)
-- [Thursday, Dec 15](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-15-life-updates.md)
-- [Sunday, Dec 4](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-04-power-of-the-mind.md)
+- [12-22-2022: closing out the year](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-22-closing-out-the-year.md)
+- [12-15-2022: life updates](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-15-life-updates.md)
+- [12-04-2022: power of the mind](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-04-power-of-the-mind.md)
 
 ### Nov
-
-- [Wednesday, Nov 30](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/11-30-thinking-about-being.md)
-- [Monday, Nov 14](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/11-14-creative-newsletter.md)
+- [11-30-2022: thinking about being](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/11-30-thinking-about-being.md)
+- [11-14-2022: creative newsletter](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/11-14-creative-newsletter.md)
