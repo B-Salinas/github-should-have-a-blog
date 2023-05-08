@@ -4,10 +4,10 @@ dumping my thoughts, feel free to read (most recent at the top)
 
 # 2023
 ### May
-- [05-08-2023: hm]()
+- [MON 05-08-2023: hm]()
 
 ### Apr
-- [04-21-2023: HBD Dad](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/04-21-hdb-dad.md)
+- [FRI 04-21-2023: HBD Dad](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/04-21-hdb-dad.md)
 - [THU 04-06-2023: algoexpert?](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/04-06-algoexpert.md)
 
 ### Jan
