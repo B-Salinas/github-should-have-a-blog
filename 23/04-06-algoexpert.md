@@ -1,4 +1,6 @@
-<br />
+<p align="right">
+  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/04-21-hdb-dad.md"> Fri, Apr 21 >> </a>
+</p>
 
 #### (7) – Thursday, Apr 6, 2023
 
