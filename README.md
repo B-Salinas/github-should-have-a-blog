@@ -6,7 +6,7 @@ dumping my thoughts, feel free to read (most recent at the top)
 
 ### June
 - [SAT 06-10-2023: been a min](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/06-10-been-a-min.md)
-- 
+
 ### May
 - [MON 05-08-2023: hm](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/05-08-hm.md)
 
