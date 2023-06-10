@@ -5,7 +5,7 @@
   <a href=" "> DAY, MONTH DAY >> </a>
 </p> -->
 
-#### (10) - June 10, 2023 at 12:14 AM
+#### (10) - Saturday, June 10, 2023 at 12:14 AM
 
 Currently watching [Night Driving Seoul City](https://youtu.be/40xZVEFVBuE) - I'm 26yo and I'm not comfortable with the idea of driving, so watching driving POV videos helps me get used to the idea eventually. It's less scary if I've seen it before. 
 
