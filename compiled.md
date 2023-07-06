@@ -1,3 +1,61 @@
+# 2023
+
+#### (10) - Saturday, June 10, 2023 at 12:14 AM 
+
+Currently watching [Night Driving Seoul City](https://youtu.be/40xZVEFVBuE) - I'm 26yo and I'm not comfortable with the idea of driving, so watching driving POV videos helps me get used to the idea eventually. It's less scary if I've seen it before. 
+
+It's been about a month since I updated this blog, but I feel changed blog. It wasn't perfect, but I participated in the 2023 Chainlink Hackathon by submitting my b-nodes project. I submitted scrapes of what I had (as this is still a WIP) 2 minutes before the deadline closed, onlY FOR THE DEADLINE TO EXTEND BY 2 DAYS.
+
+They extended it in the final hour because I opened up my submission about 5 hours before hand. I can't even be mad that they did that, but I'm glad that I put something out there, even if it's not my best work. "Done is better than perfect" is something I've been repeating myself for years, but I understood it today. 
+
+<br />
+
+#### (9) - Monday, May 8, 2023
+
+Hm. Lots of change has happened recently in my life, more so mental changes.
+
+After I was let go from Meta, I realized I had been in the exact same spot before. I knew/know what to do and got myself a labour-intensive job to bring in some $$$ while allowing myself to mentally turn off while working. That clear divide to remind myself that I _can_ do something about my situation.
+
+I have lots of plans, hopes, and aspirations for myself. Let's do it.
+
+<br />
+
+#### (8) - Friday, Apr 21, 2023
+
+Today's my dad's birthday.
+
+I owe a lot of my mindset and work ethic to him. Love you lots pops.
+
+One of my best friends is getting married soon. I'm learning what it means to come back to myself, which doesn't mean that I leave people behind. Cave mode vs. Stage mode.
+
+This entry was also a test to see if the github remote repo error.
+
+<br />
+
+#### (7) – Thursday, Apr 6, 2023
+
+5:15 PM.
+
+Listening to [What is the AlgoExpert introduction video](https://www.algoexpert.io/product). ~~It's 5:15pm,~~ I was let go from Meta on Tuesday evening.
+
+I'm still in shock, but it's already happened. I've been in this position before when I was let go from a real estate startup. Both were amazing opportunities and I've learned a lot since then.
+
+So I've been here and I know what to do. And I know personally that I need to pursue things that excite me.
+
+I'm scared but also excited to take this next step forward.
+
+<br />
+
+#### (6) – Thursday, Jan 12, 2023
+
+2:56 AM.
+
+My sleep schedule has been really bad for the last few months. I don't think I've been pushing myself -- I haven't pursued things that excite (scare) me. I lay awake at night, sometimes until 4am, full of restless energy because I didn't do something I wanted to do.
+
+And a lot of the things that I want to do really scare me, but in a good way. To be a beginner again is a great thing, everything is so fresh. But if you aren't nice to yourself in such a vulnerable state, you can stunt your own growth before you even get going.
+
+Right now, for instance: I'm not the best at math but I find it really interesting. I hope to be able to understand and code rotational matrices and different shapes, as well as come up with shapes and transformations I haven't seen on YouTube yet.
+
 # 2022
 
 #### (5) – Thursday, Dec 22, 2022
