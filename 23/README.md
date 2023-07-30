@@ -1,7 +1,7 @@
 # 2023
 
 ## June
-- [Saturday, June 10: been a min](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/06-10-been-a-min.md)
+- [Saturday, Jun 10: been a min](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/06-10-been-a-min.md)
 
 ## May
 - [Monday, May 8: hm](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/05-08-hm.md)
