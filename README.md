@@ -4,7 +4,7 @@ dumping my thoughts, feel free to read (most recent at the top)
 
 and if you'd like to see all the entries [compiled](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/compiled.md).
 
-# 2023
+# [2023](https://github.com/B-Salinas/github-should-have-a-blog/tree/main/23)
 
 - [SAT 06-10-2023: been a min](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/06-10-been-a-min.md)
 - [MON 05-08-2023: hm](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/05-08-hm.md)
@@ -12,7 +12,7 @@ and if you'd like to see all the entries [compiled](https://github.com/B-Salinas
 - [THU 04-06-2023: algoexpert?](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/04-06-algoexpert.md)
 - [THU 01-12-2023: its 3am](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/01-12-its-3am.md)
 
-# 2022
+# [2022](https://github.com/B-Salinas/github-should-have-a-blog/tree/main/22)
 
 - [THU 12-22-2022: closing out the year](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-22-closing-out-the-year.md)
 - [THU 12-15-2022: life updates](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-15-life-updates.md)
