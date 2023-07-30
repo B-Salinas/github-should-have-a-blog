@@ -2,6 +2,8 @@
 
 dumping my thoughts, feel free to read (most recent at the top)
 
+and if you'd like to see all the entries [compiled](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/compiled.md).
+
 # 2023
 
 - [SAT 06-10-2023: been a min](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/06-10-been-a-min.md)
