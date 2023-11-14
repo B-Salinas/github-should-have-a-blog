@@ -12,7 +12,9 @@ I will say, I'm not as discouraged by everything that I'm looking at or experien
 
 Soon. Until next time blog!
 
-<center> * * * * * </center>
+<p align="center">
+  * * * * *
+</p>
 
 WAIT THIS BLOG IS A YEAR OLD NOW!!! 
 
