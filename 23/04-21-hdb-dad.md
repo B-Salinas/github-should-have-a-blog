@@ -1,4 +1,4 @@
-#### (8) - Friday, Apr 21, 2023
+#### (8) – Friday, Apr 21, 2023
 
 Today's my dad's birthday.
 
