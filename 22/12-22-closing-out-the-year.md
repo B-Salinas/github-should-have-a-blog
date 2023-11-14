@@ -1,7 +1,3 @@
-<p align="right">
-  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/01-12-its-3am.md"> Thu, Jan 12 >> </a>
-</p>
-
 #### (5) – Thursday, Dec 22, 2022
 
 3:11 PM. It's cold out in Austin, TX -- 30°. Listening to "Fading Away" by Elaine on Spotify. 
@@ -11,9 +7,3 @@ Just cleaning up shop right now, both digitally, physically, mentally, emotional
 I've also realized lately that every problem in my life currently is a me vs. me thing. I find that I increasingly get in my own way or block my own progress by either not doing the one task / series of tasks that will move me along. I heard recently that doubt is the precursor to fear and I tend to doubt myself. 
 
 There used to be a time where I was fearless, not afraid to jump. My only goal for 2023 is to stretch out and take up that space again, take the leap.
-
----
-
-<p align="left">
-  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-15-life-updates.md"> << Thu, Dec 15 </a>
-</p>
