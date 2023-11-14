@@ -8,7 +8,7 @@ And it's been a very weird but revealing experience/journey so far. I'm more or 
 
 But am I really, if things in the physical haven't changed yet? That's about the only part of all this that I get hung up on. I'm thinking different, I'm looking at things differently, I'm excited about different things -- but things in the physical are still the same. I'm still at a minimum wage job, I still haven't made any "outward" progress on my open-source project, I still don't have a license or a car, etc..
 
-I will say, I'm not as discouraged by everything that I'm looking at or experiencing as I would be last year. Last year, not seeing any outward change would have thrown me for a loop. Living in my day to day know, my only thought is "oh, it's not here yet."
+I will say, I'm not as discouraged by everything that I'm looking at or experiencing as I would be last year. Last year, not seeing any outward change would have thrown me for a loop. Living in my day to day now, my only thought is "oh, it's not here yet."
 
 Soon. Until next time blog!
 
