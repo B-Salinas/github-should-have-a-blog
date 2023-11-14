@@ -11,3 +11,9 @@ But am I really, if things in the physical haven't changed yet? That's about the
 I will say, I'm not as discouraged by everything that I'm looking at or experiencing as I would be last year. Last year, not seeing any outward change would have thrown me for a loop. Living in my day to day know, my only thought is "oh, it's not here yet."
 
 Soon. Until next time blog!
+
+<center> * * * * * </center>
+
+WAIT THIS BLOG IS A YEAR OLD NOW!!! 
+
+I don't have a lot of entries, but I'm proud of myself for coming back to this time and time again, just to dump. Comparing my first entry to this one, my thought process and the way I write. Just wow. Real proud of you B, I'm excited to see what's coming.
