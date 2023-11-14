@@ -1,6 +1,32 @@
 # 2023
 
-#### (10) - Saturday, June 10, 2023 at 12:14 AM 
+### (12) – Tuesday, Nov 14 at 12:32 AM
+
+I never ended up coming back to the previous entry. I'm in my room now (hence, safe space) instead of Gold's Gym. My dad and I are driving up to Austin, TX in about 3 hours to retrieve something important. 
+
+Been reflecting a lot, github blog. This whole past year has been one big reflection. Coming to realizations, refining my thinking process. Really coming into my personhood, who I've been showing up as and who I want to show up as in the future. How can I reconcile any gaps within myself, between the here and now. 
+
+And it's been a very weird but revealing experience/journey so far. I'm more or less in the exact same position as I was last year -- at a minimum wage job, working on projects, looking for my next opportunity. But mentally, I'm different. 
+
+But am I really, if things in the physical haven't changed yet? That's about the only part of all this that I get hung up on. I'm thinking different, I'm looking at things differently, I'm excited about different things -- but things in the physical are still the same. I'm still at a minimum wage job, I still haven't made any "outward" progress on my open-source project, I still don't have a license or a car, etc..
+
+I will say, I'm not as discouraged by everything that I'm looking at or experiencing as I would be last year. Last year, not seeing any outward change would have thrown me for a loop. Living in my day to day now, my only thought is "oh, it's not here yet."
+
+Soon. Until next time blog!
+
+<p align="center">
+  * * * * *
+</p>
+
+WAIT THIS BLOG IS A YEAR OLD NOW!!! 
+
+I don't have a lot of entries, but I'm proud of myself for coming back to this time and time again, just to dump. Comparing my first entry to this one, my thought process and the way I write. Just wow. Real proud of you B, I'm excited to see what's coming.
+
+### (11) – Friday, Nov 10, 2023 at 8:58 AM
+
+Opened Gold's Gym today at 5 AM. I really like this job. The morning crowd is so inspiring.
+
+### (10) – Saturday, June 10, 2023 at 12:14 AM 
 
 Currently watching [Night Driving Seoul City](https://youtu.be/40xZVEFVBuE) - I'm 26yo and I'm not comfortable with the idea of driving, so watching driving POV videos helps me get used to the idea eventually. It's less scary if I've seen it before. 
 
@@ -8,9 +34,7 @@ It's been about a month since I updated this blog, but I feel changed blog. It w
 
 They extended it in the final hour because I opened up my submission about 5 hours before hand. I can't even be mad that they did that, but I'm glad that I put something out there, even if it's not my best work. "Done is better than perfect" is something I've been repeating myself for years, but I understood it today. 
 
-<br />
-
-#### (9) - Monday, May 8, 2023
+### (9) – Monday, May 8, 2023
 
 Hm. Lots of change has happened recently in my life, more so mental changes.
 
@@ -18,9 +42,7 @@ After I was let go from Meta, I realized I had been in the exact same spot befor
 
 I have lots of plans, hopes, and aspirations for myself. Let's do it.
 
-<br />
-
-#### (8) - Friday, Apr 21, 2023
+### (8) – Friday, Apr 21, 2023
 
 Today's my dad's birthday.
 
@@ -30,9 +52,7 @@ One of my best friends is getting married soon. I'm learning what it means to co
 
 This entry was also a test to see if the github remote repo error.
 
-<br />
-
-#### (7) – Thursday, Apr 6, 2023
+### (7) – Thursday, Apr 6, 2023
 
 5:15 PM.
 
@@ -44,9 +64,7 @@ So I've been here and I know what to do. And I know personally that I need to pu
 
 I'm scared but also excited to take this next step forward.
 
-<br />
-
-#### (6) – Thursday, Jan 12, 2023
+### (6) – Thursday, Jan 12, 2023
 
 2:56 AM.
 
@@ -58,7 +76,7 @@ Right now, for instance: I'm not the best at math but I find it really interesti
 
 # 2022
 
-#### (5) – Thursday, Dec 22, 2022
+### (5) – Thursday, Dec 22, 2022
 
 3:11 PM. It's cold out in Austin, TX -- 30°. Listening to "Fading Away" by Elaine on Spotify. 
 
@@ -68,9 +86,7 @@ I've also realized lately that every problem in my life currently is a me vs. me
 
 There used to be a time where I was fearless, not afraid to jump. My only goal for 2023 is to stretch out and take up that space again, take the leap.
 
-<br />
-
-#### (4) – Thursday, Dec 15, 2022
+### (4) – Thursday, Dec 15, 2022
 
 8:55PM. Listening to [Alef's "Sol"](https://www.youtube.com/watch?v=30dTTJPRf94&t=2129s) (I found it while scrolling my YouTube feed for a while and I needed something to latch onto while I worked.)
 
@@ -84,9 +100,7 @@ And while I still have the onboarding email waiting in my inbox ~~-- it almost s
 
 Very exciting and scary things happening. Until next time!
 
-<br />
-
-#### (3) – Sunday, Dec 4, 2022
+### (3) – Sunday, Dec 4, 2022
 
 12:19 AM. Listening to [Your Higher Self](https://www.youtube.com/watch?v=1KObIrOxc1E&t=372s).
 
@@ -96,9 +110,7 @@ But this is a moment. One of many that is just another choice in my life, yet de
 
 My mind is a powerful tool. What I say I can or cannot do, determines what I accomplish. In spite of fear, I'm still here.
 
-<br />
-
-#### (2) – Wednesday, Nov 30, 2022 
+### (2) – Wednesday, Nov 30, 2022 
 
 1:35 PM. 
 
@@ -124,9 +136,7 @@ Me too. But I have to take a chance on myself.
 
 Side note - I really like Github and the direction it's going in. I'm excited to see what else they come up with.
 
-<br />
-
-#### (1) – Monday, Nov 14, 2022
+### (1) – Monday, Nov 14, 2022
 
 12:07 AM. Listening to MIT OpenCourseWare's Lecture 1: Algorithmic Thinking, Peak Finding [video](https://www.youtube.com/watch?v=HtSuA80QTyo).
 
