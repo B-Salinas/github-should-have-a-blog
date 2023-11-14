@@ -1,5 +1,9 @@
 # 2023
 
+## November
+- [Tuesday, Nov 14: safe space](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/11-14-safe-space.md)
+- [Friday, Nov 10: golds gym](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/11-10-golds-gym.md)
+
 ## June
 - [Saturday, Jun 10: been a min](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/06-10-been-a-min.md)
 
