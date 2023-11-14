@@ -1,4 +1,4 @@
-#### (12) -- Tuesday, Nov 14 at 12:32 AM
+#### (12) – Tuesday, Nov 14 at 12:32 AM
 
 I never ended up coming back to the previous entry. I'm in my room now (hence, safe space) instead of Gold's Gym. My dad and I are driving up to Austin, TX in about 3 hours to retrieve something important. 
 
