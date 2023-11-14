@@ -1,7 +1,3 @@
-<p align="right">
-  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-04-power-of-the-mind.md"> Sun, Dec 4 >> </a>
-</p>
-
 #### (2) – Wednesday, Nov 30, 2022 
 
 1:35 PM. 
@@ -27,11 +23,3 @@ Something did shift today. It was great talking to my buddy - he looks out for m
 Me too. But I have to take a chance on myself.
 
 Side note - I really like Github and the direction it's going in. I'm excited to see what else they come up with.
-
----
-
-<p align="left">
-  <a href="https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/11-14-creative-newsletter.md"> << Mon, Nov 14 </a> 
-</p>
-
-
