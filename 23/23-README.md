@@ -1,7 +1,7 @@
 # 2023
 
 ## December
-- [Friday, Dec 22](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/12-22-qube.md)
+- [Friday, Dec 22: qube](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/12-22-qube.md)
 
 ## November
 - [Tuesday, Nov 14: safe space](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/11-14-safe-space.md)
