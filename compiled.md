@@ -1,5 +1,31 @@
 # 2023
 
+### (13) - Friday, Dec 22 at 5:03 AM
+
+At Gold's Gym again, opening. 
+
+Tomorrow is my mom's birthday. What a lady and what a year it's been for her. Thank you for all that you've done, even if you'll never see this. I hope I can pay you and dad back one day for everything that y'all have done for Aaron and I. Soon.
+
+This will probably be my last entry of 2023, so I wanted to write about something that I've been building. Well "building," but definitely been working on for a little over a year now. (I actually started putting pen to paper around the same time that I started this blog, kinda another full circle moment right now.) 
+
+It's called [QUBE](https://github.com/B-Salinas/QUBE), an acronym that I'm stillllllllll playing around with what it stands for exactly. 
+
+The general idea is that it helps control the flow of data. Or really brings about the flow. Data, money, energy, water - they all flow. But there is no eyes in the digital world, and as far as I know, no "laws of physics" governing the way that bits of information interact with each other while they are stored. I'm not hoping to set some standard into place, but discover a standard that already exists as we just don't understand the "laws" of the digital realm yet. 
+
+And it all boils down to math. 
+
+That's still SUPER vague when it comes to the Qube and it's capabalities, but I hope to bring it to life and let it speak for itself. I know it's going to do a LOT of good for the world - it just depends on me helping it come to life.
+
+Best of luck to myself, I hope it comes out better than expected (me to me when I inevitably come back and reread these entries later). 
+
+And to anyone who happens to stumble upon this: I hope things are going well for you too :) 
+
+<p align="center">
+  * * * * *
+</p>
+
+So turns out I actually wrote a blog entry this time [last year](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/22/12-22-closing-out-the-year.md). I love when that happens - I'm moving right along! I'm glad I've been listening to myself.
+
 ### (12) – Tuesday, Nov 14 at 12:32 AM
 
 I never ended up coming back to the previous entry. I'm in my room now (hence, safe space) instead of Gold's Gym. My dad and I are driving up to Austin, TX in about 3 hours to retrieve something important. 
