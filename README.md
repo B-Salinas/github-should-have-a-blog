@@ -1,8 +1,6 @@
 # github-should-have-a-blog
 
-dumping my thoughts, feel free to read (most recent at the top)
-
-and if you'd like to see all the entries [compiled](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/compiled.md).
+dumping my thoughts, feel free to read (most recent at the top) - or see all the entries [compiled](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/compiled.md).
 
 # [2023](https://github.com/B-Salinas/github-should-have-a-blog/tree/main/23)
 - [Friday, Dec 22: qube](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/23/12-22-qube.md)
