@@ -2,7 +2,11 @@
 
 dumping my thoughts, feel free to read (most recent at the top) - or see all the entries [compiled](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/compiled.md).
 
+# [2025](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/25/)
+- [Saturday, Jan 04: linux user](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/25/01-04-linux-user.md)
+
 # [2024](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/24/)
+- [Sunday, Oct 06: cracked](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/24/10-06-cracked.md)
 - [Monday, Jun 17: still alive](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/24/06-17-still-alive.md)
 
 # [2023](https://github.com/B-Salinas/github-should-have-a-blog/tree/main/23)
