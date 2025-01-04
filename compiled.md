@@ -1,4 +1,43 @@
+# 2025
+
+### (16) Saturday, January 4, 2025 @ 2:46 AM CST
+
+Happy New Year!
+
+I have a Thinkpad T490 now! I didn't like Windows so I installed Ubuntu to give it a try. It's not that much different from a Mac and I've enjoyed the experience and learning new ways to get around. I even installed a new terminal, Ghostty!
+
+I'm 1 1/2 months sober from drugs and 1 month sober from drinking. I severely cut back in 2024, but now it's intention. No more "half a beer" here and "just a hit" there. I have a lot of potential to live up to and to bring forth in my life, it's for the best that I have a clear mind. Right now, I use caffeine, nicotine, and meditation to get through my days.
+
+As I move and exist on the internet, I realize more and more people just want to share their creations. That's exactly what this blog/journal is about, to an extent. I mainly use them as checkins for myself as a developer - even when I'm not really developing anything.
+
+It all starts in the mind. My environment as a developer is first between my ears.
+
+I have big plans for myself and this year. It starts with me. I hope anyone who comes across this has a good year as well (and everyone who won't).
+
 # 2024
+
+### (15) Sunday, October 6, 2024 @ 10:38 AM CST
+
+(I'm going to have to go back and format this later.)
+
+Still alive -- my laptop and phone broke. I've upgraded to the iPhone SE (with a home button) and I'm in love. My already cracked 11-in iPad has taken over as the main hub for my things.
+
+I just figured out how to really utilize Stage Manager yesterday and I'm feeling alright about not having such a machine.
+
+Everything happens for a reason. It was all to teach me something. I was scared to build, I wasn't taking advantage of the tools I had so they were removed. I have never wanted to build something more so badly. I can still do so, it just doesn't look the way that I expect. The one thing that I really miss is having a second screen. The iPad is strictly for mirroring. It's okay, it works and I'm happy with the setup.
+
+It's Winter Arc 2024.
+
+> Apply for jobs that make more than $8.25/hour, preferably in the tech field and remote OR in a city I'd love to live in (ie. Austin, TX)
+> Continuing cleaning out my room. A clean space is a clear mind.
+> Take long walks again.
+> Read, specifically finish "Read Write Own, Building the Next Era of the Internet" by Chris Dixon.
+> Refine QUBE, the journal is complete, but it's all over the place and there are still gaps.
+> Build out QUBE, add SOMETHING to the resume to showcase my work for the past 2 years.
+> Meditate, master the mind.
+> Leetcode. Approach it as the daily crossworld puzzle.
+
+Pretty much chop wood, carry the water. The gate is gateless.
 
 ### (14) - Monday, Jun 17, 2024 at 6:35 AM CST (A)
 
