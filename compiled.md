@@ -1,6 +1,6 @@
 # 2025
 
-### (16) Saturday, January 4, 2025 @ 2:46 AM CST
+### (16) - Saturday, January 4, 2025 @ 2:46 AM CST
 
 Happy New Year!
 
@@ -16,7 +16,7 @@ I have big plans for myself and this year. It starts with me. I hope anyone who 
 
 # 2024
 
-### (15) Sunday, October 6, 2024 @ 10:38 AM CST
+### (15) - Sunday, October 6, 2024 @ 10:38 AM CST
 
 (I'm going to have to go back and format this later.)
 
