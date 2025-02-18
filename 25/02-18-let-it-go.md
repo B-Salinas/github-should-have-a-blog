@@ -1,4 +1,4 @@
-### Tuesday, Feb 18, 2025 @ 6:25 AM CST
+#### Tuesday, Feb 18, 2025 @ 6:25 AM CST
 
 It has become blaringly obvious to me that I've been stuck in the past. In my mindsets especially. 
 
