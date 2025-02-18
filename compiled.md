@@ -1,6 +1,6 @@
 # 2025
 
-### Tuesday, Feb 18, 2025 @ 6:25 AM CST
+### (17) - Tuesday, Feb 18, 2025 @ 6:25 AM CST
 It has become blaringly obvious to me that I've been stuck in the past. In my mindsets especially.
 
 I have let past heartaches and mistakes blind me. I have let old emotions continue to sway me, take me out in the vast ocean in a boat full of holes, more water coming in than I can get out.
