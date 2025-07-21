@@ -6,7 +6,7 @@ I have let past heartaches and mistakes blind me. I have let old emotions contin
 
 But I forgot that I know how to swim. There is no longer a shore in sight anymore, but that's okay. I will be okay.
 
-What brought this on is that I made a connecton and then had a realization about how frequently I think about things that have happened to me in the past 5 years.
+What brought this on is that I made a connection and then had a realization about how frequently I think about things that have happened to me in the past 5 years.
 
 Then, just when I was getting somewhere, I was fired in 2021 and in 2022, back to back jobs. I already had little faith in myself as a whole and now my abilities as a software engineer. I let this manifest into being as the inability to find and keep a well-paying job. I worked at a restaurant as a dishwasher and cashier afterwards. When my lease was up, I saw no point/no hope in staying in Austin, and moved back home into my parents' house. I've been working at a gym since, the longest job that I've ever held down (going on 2 years in August 2025). 
 
