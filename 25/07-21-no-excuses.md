@@ -14,7 +14,7 @@ Moving into this next stage of my life, this is what's important to me:
 - sleeping well
 - eating well
 - keeping a clean space
-- feeling my body
+- feeling my body (its physical capabilities)
 - taking mental breaks instead of powering through
 - taking time for myself, unplugged (even more than I already am)
 - connecting with my family
