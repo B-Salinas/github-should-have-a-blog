@@ -57,7 +57,7 @@ More updates to come.
 
 #### 9. June 18, 2025 @ 4:20 PM CST: dnd < locked in
 
-I use DND (Do Not Disturb) pretty religiously, especially in small spurts. I'm a huge of softwares that limit time on certain apps, when given access. I was and still am an avid user SelfControl mac app that blocks domains (using it now!)
+I use DND (Do Not Disturb) pretty religiously, especially in small spurts. I'm a huge fan of softwares that limit time on certain apps, when given access. I was and still am an avid user SelfControl mac app that blocks domains (using it now!)
 
 I just wish it was more customizable. 
 
