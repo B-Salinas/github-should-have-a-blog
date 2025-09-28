@@ -1,5 +1,11 @@
 # 2025
 
+### (20) - Sunday, September 28, 2025 @ 2:02 PM CST
+
+Not so much an entry, but I needed a space to save my [bearblog.dev](https://bearblog.dev/) blog posts. Technically I wasn't using it as a tradional blog spot (that would be this repo) - it was a way to keep track of my project ideas. So they are all going to go here in an effort to clean up! And I have a much nicer system for jotting down any ideas I have now. 
+
+*(Not actually going to add all 11 entries in here becuase that would seriously bloat this document, so here's the [link](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/25/09-28-bearblog-posts.md).)*
+
 ### (19) - Monday, July 21, 2025 @ 7:18 AM CST
 
 I'm officially all settled in. 
