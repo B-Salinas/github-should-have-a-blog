@@ -3,6 +3,7 @@
 dumping my thoughts, feel free to read (most recent at the top) - or see all the entries [compiled](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/compiled.md).
 
 # [2025](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/25/)
+- [Sunday, Sep 28: bearblog posts](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/25/09-28-bearblog-posts.md)
 - [Monday, Jul 21: no excuses](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/25/07-21-no-excuses.md)
 - [Wednesday, Jul 09: new era](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/25/07-09-new-era.md)
 - [Tuesday, Feb 18: let it go](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/25/02-18-let-it-go.md)
