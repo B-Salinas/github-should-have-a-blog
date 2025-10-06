@@ -1,6 +1,6 @@
 #### Monday, October 06, 2025 @ 5:46 pm cst
 
-Trying out a .txt file this time!!
+~~Trying out a .txt file this time!!~~
 
 There is a Super Full Moon (in Aries) that peaks at 11:47 pm cst tonight. It's going to be beautiful. The Harvest Full Moon is always my favorite, the first full moon of Fall. 
 
