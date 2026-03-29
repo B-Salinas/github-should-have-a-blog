@@ -1,3 +1,21 @@
+# 2026
+
+### (22) - Sunday, March 29, 2026 @ 1:02 pm cst
+
+DAMN IT HAS BEEN A MINUTE, HUH ?!
+
+So much has changed for me, but also, nothing at all in the grand scheme of things:
+- 1 year sober 🥳 16 -> 17 months soon
+- moved to a bigger city
+- dishwasher & barback now (pay upgrade for SURE)
+- touching my computer more often
+- still loving AI!
+
+Not much else to say honestly. Watch Project Hail Mary (with an amazing soundtrack by Daniel Pemberton - I'm listening to it now)!
+Great fucking movie! 
+
+All the best to anyone that finds these hehe
+
 # 2025
 
 ### (21) - Monday, October 06, 2025 @ 5:46 pm cst
