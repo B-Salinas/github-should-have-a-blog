@@ -2,6 +2,9 @@
 
 dumping my thoughts, feel free to read (most recent at the top) - or see all the entries [compiled](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/compiled.md).
 
+# [2026](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/26/)
+- [Sunday, Mar 29: project hail marry](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/26/03-29-phm.md)
+
 # [2025](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/25/)
 - [Monday, Oct 06: evolved me](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/25/10-06-evolved-me.md)
 - [Sunday, Sep 28: bearblog posts](https://github.com/B-Salinas/github-should-have-a-blog/blob/main/25/09-28-bearblog-posts.md)
