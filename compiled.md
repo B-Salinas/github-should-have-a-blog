@@ -1,6 +1,6 @@
 # 2026
 
-### (22) - Sunday, March 29, 2026 @ 1:02 pm cst
+### (22) - Sunday, March 29, 2026 @ 1:02 PM CST
 
 DAMN IT HAS BEEN A MINUTE, HUH ?!
 
@@ -18,7 +18,7 @@ All the best to anyone that finds these hehe
 
 # 2025
 
-### (21) - Monday, October 06, 2025 @ 5:46 pm cst
+### (21) - Monday, October 06, 2025 @ 5:46 PM CST
 
 ~~Trying out a .txt file this time!!~~
 
